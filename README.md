@@ -1,5 +1,7 @@
 # Diversity Index Calculator
 
+[![Build, Test and Lint](https://github.com/at-silva/diversityindex/actions/workflows/build_test_and_lint.yml/badge.svg)](https://github.com/at-silva/diversityindex/actions/workflows/build_test_and_lint.yml)
+
 This project provides an implementation of diversity indices, including Shannon's Diversity Index and Simpson's Diversity Index, allowing users to calculate diversity measures for both slices and maps of data.
 Overview
 
